@@ -1,3 +1,5 @@
+# script for problem 6. Please use with file data.pickle in the same directory. You can find it here, in my repository
+
 import pickle
 
 with open('data.pickle', 'rb') as file:
